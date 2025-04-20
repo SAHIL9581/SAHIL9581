@@ -1,6 +1,10 @@
-# 💫 About Me:
-<br>- 🔭 I’m currently working on **a mental health chatbot using LangChain, Groq, and ChromaDB**<br>- 🤝 I’m looking to collaborate on **AI, chatbots, or cool open-source tools**<br>- 🆘 I’m looking for help with **LangChain integrations and advanced prompt engineering**<br>- 🌱 I’m currently learning **LangChain, Gradio, and full-stack AI deployment**<br>- 📊 I’m passionate about **data — cleaning it, visualizing it, and making it useful**<br>- 💬 Ask me about **LLMs, vector databases, or how to build friendly chatbots**<br>- ⚡ Fun fact: **I am a swimmer**<br>
-
+<br>- 🔭 I’m currently working on a mental health chatbot using LangChain, Groq, and ChromaDB
+<br>- 🤝 I’m looking to collaborate on AI, chatbots, or cool open-source tools
+<br>- 🆘 I’m looking for help with LangChain integrations and advanced prompt engineering
+<br>- 🌱 I’m currently learning LangChain, Gradio, and full-stack AI deployment
+<br>- 📊 I’m passionate about data — cleaning it, visualizing it, making it useful, and playing with it to uncover insights
+<br>- 💬 Ask me about LLMs, vector databases, or how to build friendly chatbots
+<br>- ⚡ Fun fact: I am a swimmer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s8hil9581) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sahil-pareek-b084832b5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sahilpareek792) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilpareek203@gmail.com) 
